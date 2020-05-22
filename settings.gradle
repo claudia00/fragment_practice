@@ -1,0 +1,3 @@
+rootProject.name='fragement_practice'
+include ':app'
+
